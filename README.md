@@ -6,7 +6,7 @@
        ___ /:::::::::::\____ _            _.''_
     /||   ||`.______.-`||   | |\_\\\\____/_ _.-'\\\\
 .|-| ||===|| DIRECTED  ||===| ||_||||____|_| .-'|||||
-'|-| ||===|| BY MAYHEM ||===| ||_||||____|_|`-._|||||
+'|-| ||===|| BY DIANA  ||===| ||_||||____|_|`-._|||||
     \||___||___________||___|_|/ ////       `-._////
      )      )  _____  (
     /`--.._/ .'| (  '. \     ███████╗ ██████╗ ██████╗ ██╗
@@ -52,13 +52,6 @@ Modernizing livestock & machinery auctions for the 21st century.
 ## 🛠️ **SUPERMRKT**  
 A modular creative ecosystem built for scale and individuality.  
 *Because the future of creativity deserves open, customizable tools.*
-
-**Modules**  
-- **No Credits** – Writing software  
-- **Shelf** – Digital Asset Manager  
-- **Spot** – Moodboard creation & sharing  
-- **Aisle** – Domain & social handle marketplace  
-- **Paleta** – Localization software  
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
