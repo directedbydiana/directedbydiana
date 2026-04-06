@@ -17,7 +17,7 @@
   )       )                  ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
  /`--..__/
 (        )    🎬 
- `------'     >>> hello@directedbymayhem.com <
+ `------'     >>> hello@vanitycredits.com <
 ```
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=directedbyalex.directedbyalex)
 
