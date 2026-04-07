@@ -17,7 +17,7 @@
   )       )                  ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
  /`--..__/
 (        )    🎬 
- `------'     >>> hello@vanitycredits.com <
+ `------'     >>> hello@dianacervantes.com <
 ```
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=directedbyalex.directedbyalex)
 
@@ -126,9 +126,9 @@ A modular creative ecosystem built for scale and individuality.
 ---
 
 ### 🌐 **Connect**
-- **Email:** [redacted](mailto:hello@directedbymayhem.com)  
-- **Website:** [redacted](https://directedbymayhem.com)  
-- **Instagram:** [redacted](https://instagram.com/directedbymayhem)
+- **Email:** [redacted](mailto:hello@dianacervantes.com)  
+- **Website:** [redacted](https://dianacervantes.com)  
+- **Instagram:** [redacted](https://instagram.com/__dianacervantes)
 
 ---
 🪶 *Building scalable platforms, creative ecosystems, and tools that merge design with technology. Always learning. Always building. Let's connect!*
